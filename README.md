@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Izzudinurazam Mahadi
 
-<!--
-**Izdnrzm/Izdnrzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in IoT, software development, and embedded systems.
 
-Here are some ideas to get you started:
+## About me
+- Studying: CSDC230 BACHELOR IN COMPUTER SCIENCE (HONS.), UiTM
+- Currently learning: CSC649 - SPECIAL TOPICS IN COMPUTER SCIENCE
+- My FYP area: NLP and LLM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Python, SQL
+
+## Projects
+- Development of an Intelligent Helpdesk Ticketing System Using Large Language Models
+- (https://github.com/Izdnrzm/development-of-an-intelligent-helpdesk-ticketing-system.git)
+- Develop a web-based helpdesk system that leverages Natural Language Processing (NLP) and Large Language Models (LLM) to automate the handling of IT support tickets.
+
+## Contact
+- LinkedIn: 
+- Email: 2022452822@student.uitm.edu.my
